@@ -1,4 +1,4 @@
-![Logo Devlab](devlab.png =100x)
+![Logo Devlab](devlab.png)
 # Devlab A2 S1
 ---
 
