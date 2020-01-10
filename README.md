@@ -4,7 +4,7 @@
 
 Le devlab du premier semestre est terminé ! 🎉
 
-Pour ce premier semestre les répartitions des Lab'Units étaient assez variés : 
+Pour ce premier semestre les répartitions des Lab'Units étaient assez variées : 
 
 Lab'Unit | Participants | Projets associés
 ------------ | ------------- | ----------
