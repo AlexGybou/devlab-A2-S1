@@ -1,8 +1,8 @@
-![Logo Devlab](devlab.png)
+![Logo Devlab](devlab.png =100x)
 # Devlab A2 S1
 ---
 
-Le devlab du premier semestre est terminé ! Félicitations à tous 
+Le devlab du premier semestre est terminé ! 🎉
 
 Pour ce premier semestre les répartitions des Lab'Units étaient assez variés : 
 
@@ -51,4 +51,6 @@ Les plus consciencieux d'entre vous m'ont même laissé une commande `git clone`
 
 Ce petit readme de fin de projet vous montre quelques possibilités de ce que l'on peut faire au travers de la syntaxe markdown. N'hésitez pas à aller voir à quoi ressemble le fichier pour en savoir plus. On en découvrira davantage lors des prochaines séances. 
 
-Félicitations à tous ! RDV le 27 janvier pour le semestre 2
+Félicitations à tous ! 👏 RDV le 27 janvier pour le semestre 2
+
+*Mais quelle est est cette étrange façon de nommer ses commits ? 🧐*
