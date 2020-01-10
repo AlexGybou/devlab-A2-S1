@@ -1,4 +1,4 @@
-![Logo Devlab](devlab.png)
+<img src="https://github.com/AlexGybou/devlab-A2-S1/raw/master/devlab.png" alt="Logo Devlab" width="80">
 # Devlab A2 S1
 ---
 
